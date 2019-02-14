@@ -23,11 +23,6 @@
 
 ***
 
-## [lab 6 - ELMo Sentiment Classifier in AllenNLP]() 
-## [homework 6 -  BERT Sentiment Classifier in AllenNLP]()
-
-***
-
 ## [lab 6 - AllenNLP Project End-to-end Example]() 
 ## [homework 6 -  Get Your Code Right + Transformer]()
 
