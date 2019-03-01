@@ -3,7 +3,7 @@
 
 ***
 
-## [lab 2 - Pytorch + Word Embeddings]() 
+## [lab 2 - Pytorch + Word Embeddings](https://github.com/tartu-nlp-2019/Practicals/tree/master/lab2_and_homework2) 
 ## [homework 2 - Implementing BoW model]()
 
 ***
