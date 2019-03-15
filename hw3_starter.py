@@ -1,5 +1,5 @@
 """
-Credits: # Author: Joel Grus, AllenNLP (https://github.com/allenai/allennlp/blob/master/tutorials/tagger/basic_pytorch.py)
+Credits: Joel Grus, AllenNLP (https://github.com/allenai/allennlp/blob/master/tutorials/tagger/basic_pytorch.py)
 
 This is mostly just the tutorial from
 https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html
