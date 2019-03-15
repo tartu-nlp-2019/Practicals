@@ -9,7 +9,7 @@
 ***
 
 ## [lab 3 - Sequence Tagger in Pytorch](https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html#sphx-glr-beginner-nlp-sequence-models-tutorial-py) 
-## [homework 3 - Reinforcing Sequence Tagger](https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html#exercise-augmenting-the-lstm-part-of-speech-tagger-with-character-level-features) [starter_code](https://github.com/tartu-nlp-2019/Practicals/blob/master/hw3_starter.py)
+## [homework 3 - Reinforcing Sequence Tagger](https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html#exercise-augmenting-the-lstm-part-of-speech-tagger-with-character-level-features) ---> [starter_code](https://github.com/tartu-nlp-2019/Practicals/blob/master/hw3_starter.py)
 
 ***
 
