@@ -1,4 +1,6 @@
 """
+Credits: # Author: Joel Grus, AllenNLP (https://github.com/allenai/allennlp/blob/master/tutorials/tagger/basic_pytorch.py)
+
 This is mostly just the tutorial from
 https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html
 with the following changes:
@@ -171,7 +173,3 @@ with torch.no_grad():
     print(tag_scores)
     tag_ids = torch.argmax(tag_scores, dim=-1).tolist()
     print([["DET", "NN", "V"][i] for i in tag_ids])
-    
-    
-    
-# Author: Joel Grus, AllenNLP (https://github.com/allenai/allennlp/blob/master/tutorials/tagger/basic_pytorch.py)
