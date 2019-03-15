@@ -1,4 +1,6 @@
 """
+Author: Joel Grus, AllenNLP.
+
 This is mostly just the tutorial from
 https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html
 with the following changes:
