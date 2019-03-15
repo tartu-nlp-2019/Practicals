@@ -8,7 +8,7 @@
 
 ***
 
-## [lab 3 - Sequence Tagger in Pytorch]() 
+## [lab 3 - Sequence Tagger in Pytorch](https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html#sphx-glr-beginner-nlp-sequence-models-tutorial-py) 
 ## [homework 3 - Reinforcing Sequence Tagger]()
 
 ***
