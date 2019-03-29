@@ -15,8 +15,8 @@ __*NB: when you write your homework submission (in pdf or ipynb) please add a co
 
 ***
 
-## [lab 4 - Sequence Tagger in AllenNLP]() 
-## [homework 4 -  AllenNLP Names Classifier]()
+## [lab 4 - Sequence Tagger in AllenNLP](https://docs.google.com/document/d/1VgOGpz9qZUkfkWyLaACWBAulOwyyzOr6gr6af13uefg/edit?usp=sharing) 
+## [homework 4 -  AllenNLP Names Classifier](https://docs.google.com/document/d/1VgOGpz9qZUkfkWyLaACWBAulOwyyzOr6gr6af13uefg/edit?usp=sharing)
 
 ***
 
