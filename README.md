@@ -1,4 +1,4 @@
-__*NB: when you write your homework submission (in pdf or ipynb) please add a conclusion representing what you think you have done susuccessfully and where you think you failed and how*__
+When you write your homework submission (in pdf or ipynb) please add a conclusion representing what you think you have done susuccessfully and where you think you failed and how. However, this will not affect your grade by any means. It will just help you better reflect on your homework and might be useful for some of you.
 
 ## [lab 1 - NLP basics](https://docs.google.com/document/d/1tZKoBBSY42LclaU1thsBjNtJ5KkAte7ZmIvD2vRYFVM/edit?usp=sharing) 
 ## [homework 1 - NLP of your language](https://docs.google.com/document/d/1lCp__KKBa5RAnOL5PAHXgqeZcW_kXLFAntJXpv5kOig/edit?usp=sharing)
