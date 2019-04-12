@@ -20,7 +20,7 @@ When you write your homework submission (in pdf or ipynb) please add a conclusio
 
 ***
 
-## [lab 5 - ELMo Sentiment Classifier in AllenNLP]() 
+## [lab 5 - Contextualized Embeddings based Sentiment Classifier in AllenNLP](https://mlexplained.com/2019/01/30/an-in-depth-tutorial-to-allennlp-from-basics-to-elmo-and-bert/) 
 ## [homework 5 -  BERT Sentiment Classifier in AllenNLP]()
 
 ***
