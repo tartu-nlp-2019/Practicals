@@ -27,8 +27,8 @@ When you write your homework submission (in pdf or ipynb) please add a conclusio
 
 ***
 
-## [lab 6 - AllenNLP Project End-to-end Example]() 
-## [homework 6 -  Get Your Code Right + Transformer]()
+## [lab 6 - AllenNLP Project End-to-end Example](https://docs.google.com/document/d/1kvw5Nej00dnjStXrzn6ypVCO-JY19ALRJRzVWV4gwOo/edit?usp=sharing) 
+## [homework 6 -  Get Your Code Right + Transformer](https://docs.google.com/document/d/1kvw5Nej00dnjStXrzn6ypVCO-JY19ALRJRzVWV4gwOo/edit?usp=sharing)
 
 ***
 
