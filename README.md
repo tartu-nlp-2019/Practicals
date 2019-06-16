@@ -32,7 +32,7 @@ When you write your homework submission (in pdf or ipynb) please add a conclusio
 
 ***
 
-## [project - Putting It All Together]()
+## [Project](https://courses.cs.ut.ee/2019/NLP/spring/Main/Project)
 
 ***
 
