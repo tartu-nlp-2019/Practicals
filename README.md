@@ -1,3 +1,5 @@
+Course page: https://courses.cs.ut.ee/2019/NLP/spring/Main/Labs
+
 #### [-> Grades](https://docs.google.com/spreadsheets/d/1MEiWuvWyuEO_qo7Xn8cqngnCRZsnzxKMrBVcYz9-lVI/edit?usp=sharing) 
 
 ## [lab 1 - NLP basics](https://docs.google.com/document/d/1tZKoBBSY42LclaU1thsBjNtJ5KkAte7ZmIvD2vRYFVM/edit?usp=sharing) 
