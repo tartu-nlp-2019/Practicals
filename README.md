@@ -1,4 +1,4 @@
-Course page: https://courses.cs.ut.ee/2019/NLP/spring/Main/Labs
+Practicals for the Tartu University's NLP course. Course page: https://courses.cs.ut.ee/2019/NLP/spring/Main/Labs
 
 #### [-> Grades](https://docs.google.com/spreadsheets/d/1MEiWuvWyuEO_qo7Xn8cqngnCRZsnzxKMrBVcYz9-lVI/edit?usp=sharing) 
 
